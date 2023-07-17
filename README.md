@@ -50,9 +50,7 @@ After training, the models' performance is visualized by plotting the training a
 2. Run the RNN, LSTM Bidirectional, and LSTM models training code separately.
 3. Visualize the training and validation loss for each model using the provided code.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+## Contribution
 Feel free to fork, modify, and use the code for your own sentiment analysis projects!
 
 For any questions or issues, please open an issue in this repository.
